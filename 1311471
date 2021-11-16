@@ -1,0 +1,17 @@
+{
+  "title": "test",
+  "description": "test",
+  "artist": "test",
+  "author": "test",
+  "cover": "https://files.catbox.moe/wftv9i.jpg",
+  "chapters": {
+    "1": {
+      "title": "name",
+      "volume": "1",
+      "groups": {
+        "<group name>": "https://files.catbox.moe/wftv9i.jpg"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
