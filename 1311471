@@ -1,15 +1,15 @@
 {
-  "title": "test",
-  "description": "test",
-  "artist": "test",
-  "author": "test",
-  "cover": "https://files.catbox.moe/wftv9i.jpg",
+  "title": "<manga title>",
+  "description": "<manga description>",
+  "artist": "<manga artist>",
+  "author": "<manga author>",
+  "cover": "<mangacoverurl.jpg>",
   "chapters": {
-    "1": {
-      "title": "name",
-      "volume": "1",
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
       "groups": {
-        "<group name>": "https://files.catbox.moe/wftv9i.jpg"
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
     },
