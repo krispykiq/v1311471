@@ -9,7 +9,9 @@
       "title": "chapter name",
       "volume": "1",
       "groups": {
-        "group name": "/proxy/api/imgur/chapter/tn1Qk21/"
+        "group name": ["https://i.imgur.com/tn1Qk21.jpeg",
+        "https://i.imgur.com/tn1Qk21.jpeg",
+        "https://i.imgur.com/tn1Qk21.jpeg"]
       },
       "last_updated": "1616368746"
     },
