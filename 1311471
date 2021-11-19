@@ -1,15 +1,15 @@
 {
-  "title": "<manga title>",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
-  "cover": "<mangacoverurl.jpg>",
+  "title": "Manga Title",
+  "description": "Manga Description",
+  "artist": "Manga Artist",
+  "author": "Manga Author",
+  "cover": "https://i.imgur.com/tn1Qk21.jpeg",
   "chapters": {
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "1": {
+      "title": "chapter name",
+      "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "<group name>": "/proxy/api/imgur/chapter/tn1Qk21/"
       },
       "last_updated": "1616368746"
     },
