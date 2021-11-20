@@ -217,7 +217,7 @@
                             "https://drive.google.com/uc?id=1HaGCASz-eSoZuwv3CvZFD7yjZ2ipMqw_"
                 ]
             },
-            "last_updated": 1637418786.4800498,
+            "last_updated": 1637422060.083676,
               "title": "Bloom Into You v08 (2020) (Digital) (danke-Empire)",
               "volume": "1"
           },
@@ -406,7 +406,7 @@
                             "https://drive.google.com/uc?id=1PJnA-0b4SKTCQ4gcCUgIPO5j5WpyTQyv"
                 ]
             },
-            "last_updated": 1637418851.3150084,
+            "last_updated": 1637422124.785981,
               "title": "Bloom Into You v07 (2020) (Digital) (danke-Empire)",
               "volume": "1"
           },
@@ -599,7 +599,7 @@
                             "https://drive.google.com/uc?id=1WTAK5ibN6_5sTL4lc742iVftlxhm6GGr"
                 ]
             },
-            "last_updated": 1637418906.224314,
+            "last_updated": 1637422179.1949153,
               "title": "Bloom Into You v03 (2017) (Digital) (danke-Empire)",
               "volume": "1"
           },
@@ -790,7 +790,7 @@
                             "https://drive.google.com/uc?id=1fe1nMIk0d3BhEh6yAe1uwzJlJS1u1syW"
                 ]
             },
-            "last_updated": 1637418962.2996461,
+            "last_updated": 1637422234.8202627,
               "title": "Bloom Into You v02 (2017) (Digital) (danke-Empire)",
               "volume": "1"
           },
@@ -981,7 +981,7 @@
                             "https://drive.google.com/uc?id=1vFZBhihJI_yx_zWiRuRfTaiU5joGHNgY"
                 ]
             },
-            "last_updated": 1637419017.6766653,
+            "last_updated": 1637422289.9839857,
               "title": "Bloom Into You v05 (2018) (Digital) (danke-Empire)",
               "volume": "1"
           },
@@ -1174,7 +1174,7 @@
                             "https://drive.google.com/uc?id=16GxD1mGV0ImvHgClNIgZVgPWYM3POaUV"
                 ]
             },
-            "last_updated": 1637419072.996811,
+            "last_updated": 1637422345.1102717,
               "title": "Bloom Into You v01 (2017) (Digital) (danke-Empire)",
               "volume": "1"
           },
@@ -1363,7 +1363,7 @@
                             "https://drive.google.com/uc?id=1HUZmWu3gcPz2lGMxl9dgN7BFJcDl_E9F"
                 ]
             },
-            "last_updated": 1637419129.1628528,
+            "last_updated": 1637422401.068774,
               "title": "Bloom Into You v06 (2019) (Digital) (danke-Empire)",
               "volume": "1"
           },
@@ -1554,13 +1554,15 @@
                             "https://drive.google.com/uc?id=1XrV5SRDnxa4z2YyM7FHuFRXhcnKhHomm"
                 ]
             },
-            "  last_updated": 1637419184.0487418,
+              "last_updated": 1637422455.4622629,
             "title": "Bloom Into You v04 (2018) (Digital) (danke-Empire)",
             "volume": "1"
         }
         
   },
     "cover": "https://cdn.myanimelist.net/images/anime/1783/96153.jpg",
-    "description": "All the chapters are up to date with the Redraws\n\nNote that if you're having troubles loading images, try (1) signing into a Google account on the browser you're using, and (2) enable cross-site cookies.\n\nRead retconned (no longer canon) chapters here: https://cubari.moe/read/gist/JRalY/\n\nContent hosted externally at https://drive.google.com/drive/folders/1WHIXJvx2Wkmz2zAY5E9TR1iHMbDRtf_y",
-    "title": "Yagate Kimi ni Naru"
+    "description": "Note that if you're having troubles loading images, try (1) signing into a Google account on the browser you're using, and (2) enable cross-site cookies.\n\nRead retconned (no longer canon) chapters here: https://cubari.moe/read/gist/JRalY/\n\nContent hosted externally at https://drive.google.com/drive/folders/{id}",
+    "title": "Yagate Kimi ni Naru",
+    "author": "Nio Nakatani",
+    "artist": "Nio Nakatani"
 }
