@@ -1,6 +1,6 @@
 {
   "chapters": {
-        " 1": {
+        "1": {
             "groups": {
                   "GDrive": [
                          "https://drive.google.com/uc?id=10H3WfS85is9EntUj0o-l_OCD0mM9ncck",
@@ -43,12 +43,12 @@
                          "https://drive.google.com/uc?id=11M1fDfBQqbdHVt2bSDd8z8SqVxzRFFxO"
                 ]
             },
-              "last_updated": 1624233600,
+                "last_updated": 1624233600,
                 "title": "Behind the celestial sphere",
                 "volume": "1"
             },
             
-        " 2": {
+        "2": {
             "groups": {
                   "GDrive": [
                          "https://drive.google.com/uc?id=11EVrj-CPb1s8Ww8rpPu-V9-v7xWU8hwl",
@@ -82,12 +82,12 @@
                          "https://drive.google.com/uc?id=13L5gl6ZiFRc6y_SeBE731am8uesTdu1t"
                 ]
             },
-              "last_updated": 1628294400,
+                "last_updated": 1628294400,
                 "title": "Spring cicada and Pleiades",
                 "volume": "1"
             },
             
-        " 3": {
+        "3": {
             "groups": {
                   "GDrive": [
                          "https://drive.google.com/uc?id=13KxvfwQviAaFM55pmVqDmuWJ2IOEUrv5",
@@ -117,7 +117,7 @@
                          "https://drive.google.com/uc?id=14fJNDpiUtQ8AKNxcchElu_xSevyDA86m"
                 ]
             },
-              "last_updated": 1637280000,
+             "last_updated": 1637280000,
             "title": "My Dear Lizzy",
             "volume": "1"
         }
