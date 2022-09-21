@@ -1,11 +1,15 @@
 {
-    "chapters": {
-        "0": {
+    "chapters":
+    {
+        "0":
+        {
             "title": "Ch.0",
             "volume": "0",
-            "last_updated": 1663769193.5177555,
-            "groups": {
-                "N/A": [
+            "last_updated": 1663770127.3115816,
+            "groups":
+            {
+                "N/A":
+                [
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/1.jpg",
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/2.jpg",
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/3.jpg",
@@ -101,12 +105,15 @@
                 ]
             }
         },
-        "1": {
+        "1":
+        {
             "title": "Ch.1",
             "volume": "0",
-            "last_updated": 1663769193.5177555,
-            "groups": {
-                "N/A": [
+            "last_updated": 1663770127.312579,
+            "groups":
+            {
+                "N/A":
+                [
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/1.jpg",
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/2.jpg",
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/3.jpg",
@@ -202,12 +209,15 @@
                 ]
             }
         },
-        "2": {
+        "2":
+        {
             "title": "Ch.2",
             "volume": "0",
-            "last_updated": 1663769193.5177555,
-            "groups": {
-                "N/A": [
+            "last_updated": 1663770127.312579,
+            "groups":
+            {
+                "N/A":
+                [
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/1.jpg",
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/2.jpg",
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/3.jpg",
@@ -303,12 +313,15 @@
                 ]
             }
         },
-        "3": {
+        "3":
+        {
             "title": "Ch.3",
             "volume": "0",
-            "last_updated": 1663769193.5177555,
-            "groups": {
-                "N/A": [
+            "last_updated": 1663770127.31358,
+            "groups":
+            {
+                "N/A":
+                [
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/1.jpg",
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/2.jpg",
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/3.jpg",
@@ -404,12 +417,15 @@
                 ]
             }
         },
-        "4": {
+        "4":
+        {
             "title": "Ch.4",
             "volume": "0",
-            "last_updated": 1663769193.5177555,
-            "groups": {
-                "N/A": [
+            "last_updated": 1663770127.31358,
+            "groups":
+            {
+                "N/A":
+                [
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/1.jpg",
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/2.jpg",
                     "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/Ch.0/3.jpg",
@@ -507,8 +523,8 @@
         }
     },
     "title": "Goodnight, Cinderella",
-    "description": "",
+    "description": "Who’s that lingerie model…there’s no full photo but recently my attention seems to be drawn towards this quiet girl in the classroom and…maybe, just maybe..the shoe (in this case, lingerie) might just fit…",
     "artist": "",
     "author": "",
-    "cover": ""
+    "cover": "https://oiquwerqwne234523asdfasdf456lvakasdfaflsjdlfqerklf49102381.loca.lt/cover.jpeg"
 }
